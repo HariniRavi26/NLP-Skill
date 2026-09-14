@@ -1,0 +1,10 @@
+How are you?	நீங்கள் எப்படி இருக்கிறீர்கள்?
+What is your name?	உங்கள் பெயர் என்ன?
+Where are you going?	நீங்கள் எங்கே செல்கிறீர்கள்?
+I am fine.	நான் நலமாக இருக்கிறேன்.
+Thank you.	நன்றி.
+Good morning.	காலை வணக்கம்.
+Good night.	இனிய இரவு.
+I like this.	எனக்கு இது பிடிக்கும்.
+What are you doing?	நீங்கள் என்ன செய்கிறீர்கள்?
+Where do you live?	நீங்கள் எங்கே வசிக்கிறீர்கள்?
